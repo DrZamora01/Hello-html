@@ -1,12 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>Hello HTML project Week 2</title>
-      </head>
-    <body>
-        <h1> Hello World </h1>
-        <h1> "Hello HTML!"</h1>
-    </body>
-    </html>
+<head>
+    <meta charset="UTF-8">
+    <title>About Me</title>
+</head>
+<body>
+    <h1>Diana ZQ</h1>
+    <hr>
 
+    <h2>My Hobbies</h2>
+    <ul>
+        <li>Soap making</li>
+        <li>PCs</li>
+        <li>Drawing</li>
+    </ul>
+
+    <h2>My Goals for 2025</h2>
+    <ol>
+        <li>To break into the IT world</li>
+        <li>To create a personal project that would land me a job</li>
+        <li>To get a nice desk job and no longer work physical labor</li>
+    </ol>
+</body>
+</html>
